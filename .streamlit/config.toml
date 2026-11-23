@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#2563eb"
+backgroundColor = "#eef3f9"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#142d50"
+font = "sans serif"
+baseFontSize = 16
+dataframeBorderColor = "#b8c9dd"
+dataframeHeaderBackgroundColor = "#dceafe"
+
+[server]
+maxUploadSize = 30
+
+[browser]
+gatherUsageStats = false
